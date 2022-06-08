@@ -19,7 +19,6 @@ Please perform the following instructions.
 
 // complete the function
 function prime(num){
-  // code goes here
     if (num === 1){
         return false;
     } else if (num === 2){
@@ -33,7 +32,6 @@ function prime(num){
         return true;
     }
 }
-console.log(prime(1));
 
 
 function solution(arg) {
